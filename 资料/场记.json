@@ -1,0 +1,34 @@
+[
+  {
+    "id": "song1",
+    "edition": "院落版",
+    "segment": "门口",
+    "language": "zh",
+    "role": "阿棠",
+    "text": "请上马。唱末将马鞭向远方一指，空台没有实物马。"
+  },
+  {
+    "id": "song2",
+    "edition": "院落版",
+    "segment": "相认",
+    "language": "zh",
+    "role": "船客",
+    "text": "这一声阿兄是认出旧日师兄，此前在扮作生人。"
+  },
+  {
+    "id": "song3",
+    "edition": "溪桥版",
+    "segment": "相送",
+    "language": "zh",
+    "role": "红娘",
+    "text": "把鞭借给你，路远慢走。该段以实物借鞭为情节。"
+  },
+  {
+    "id": "song4",
+    "edition": "院落版",
+    "segment": "开场",
+    "language": "zh",
+    "role": "主持人",
+    "text": "今天先看几种虚拟动作，识人的一折留到下半场。"
+  }
+]

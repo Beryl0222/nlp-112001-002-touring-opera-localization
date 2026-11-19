@@ -1,0 +1,23 @@
+[
+  {
+    "id": "visit1",
+    "edition": "院落版",
+    "medium": "亲子卡",
+    "orderedSegments": "开场、门口、相认",
+    "maxCharacters": "95"
+  },
+  {
+    "id": "visit2",
+    "edition": "院落版",
+    "medium": "节目册",
+    "orderedSegments": "开场、门口",
+    "maxCharacters": "150"
+  },
+  {
+    "id": "visit3",
+    "edition": "溪桥版",
+    "medium": "亲子卡",
+    "orderedSegments": "相送",
+    "maxCharacters": "90"
+  }
+]

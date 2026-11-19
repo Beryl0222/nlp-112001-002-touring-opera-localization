@@ -1,0 +1,14 @@
+{
+  "name": "touring-opera-localization",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "两站巡演排练资料",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "test": "node --test",
+    "materials": "node materials.js"
+  }
+}

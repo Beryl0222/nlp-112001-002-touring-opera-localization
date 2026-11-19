@@ -1,0 +1,23 @@
+[
+  {
+    "id": "copy1",
+    "segment": "门口",
+    "language": "en",
+    "medium": "亲子卡",
+    "text": "A real horse is about to enter. The wagon keeper is her brother."
+  },
+  {
+    "id": "copy2",
+    "segment": "相认",
+    "language": "en",
+    "medium": "节目册",
+    "text": "The passenger recognizes an older fellow apprentice after pretending to be a stranger."
+  },
+  {
+    "id": "copy3",
+    "segment": "相送",
+    "language": "en",
+    "medium": "亲子卡",
+    "text": "She hands him her riding crop and wishes him a safe journey."
+  }
+]
